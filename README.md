@@ -1,17 +1,17 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-(fill in your description and goals here)
+The scope for this project is to clean the missing data and make some meaningful interpretation of the available information.
 
 ## Process
-### (your step 1)
-### (your step 2)
+The common attributes across the tables were mapped.
+The attributes with less and no values were identified.
 
 ## Results
-(fill in what you discovered this data could tell you and how you used the data to answer those questions)
+Inferences were drawn after mapping the attributes.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+It was a herculean task to code the tables.
 
 ## Future Goals
-(what would you do if you had more time?)
+A deeper mapping of the attributes will enable logical inferences to be made. 
