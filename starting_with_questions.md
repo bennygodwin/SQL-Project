@@ -125,8 +125,3 @@ fullVisitorId	channelGrouping	time	country	city	totalTransactionRevenue	transact
 3.44464270601341E+018	Direct	273057	United States		1005500000	1	273	14	NULL	20161213	1481693637	PAGE	NULL	1	59990000	60365000	GGOEGEVB070899	Google Bongo Cupholder Bluetooth Speaker	Electronics	Single Option Only	USD	NULL	NULL	1005500000	ORD201612132887	Checkout Confirmation	NULL	/ordercompleted.html	6	1	NULL
 
 
-
-
-
-
-
